@@ -1,16 +1,15 @@
-## Hi there 👋
+# C++ & Algorithms Portfolio
 
-<!--
-**VladCuzeac/VladCuzeac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A personal repository containing foundational C++ data structures and competitive programming solutions.
 
-Here are some ideas to get you started:
+## Overview
+This repository brings together core implementation practice and algorithmic problem solving in C++, focusing on clarity, memory safety, and problem-solving fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Structure
+- `competitive-programming/` — Problem solutions organized by topic, with complexity analysis and brief explanations.
+- `data-structures/` — Core structures (`Stack`, `Queue`, `CircularQueue`) with clean interfaces and complexity notes.
+
+
+## Tech Stack & Tools
+- **Language:** C++ 
+
